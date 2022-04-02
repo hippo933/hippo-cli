@@ -1,0 +1,19 @@
+{
+  "name": "@hippo-cli/utils",
+  "version": "0.0.1",
+  "description": "hippo-cli utils",
+  "author": "hui <125173679@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"run tests from utils\""
+  }
+}
